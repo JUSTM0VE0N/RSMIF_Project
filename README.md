@@ -14,7 +14,7 @@
 
 **Model Location:** `models/`
 
-### 🌟 CF2N (GSIS 2024)
+### 🌟 CF2N (GSIS 2024) [![GitHub Repo stars](https://img.shields.io/github/stars/JUSTM0VE0N/CF2N?style=social)](https://github.com/JUSTM0VE0N/CF2N)
 **A Novel Cross Fusion Model with Fine-grained Detail Reconstruction**
 <br>
 <img src="charts/CF2N/framework.png" align=center />
@@ -26,7 +26,7 @@
 
 **Code Location:** `models/`
 
-### 🏭 MMAPP (JSTARS 2024)
+### 🏭 MMAPP (JSTARS 2024) [![GitHub Repo stars](https://img.shields.io/github/stars/JUSTM0VE0N/MMAPP?style=social)](https://github.com/JUSTM0VE0N/MMAPP)
 **Multi-branch and Multi-scale Adaptive Progressive Pyramid Network**
 <br>
 <img src="charts/MMAPP/framework.png" align=center />
@@ -41,7 +41,7 @@
 
 **Code Location:** `models/`
 
-### ⚡ RSANet (JSTARS 2023)
+### ⚡ RSANet (JSTARS 2023) [![GitHub Repo stars](https://img.shields.io/github/stars/JUSTM0VE0N/RSANet?style=social)](https://github.com/JUSTM0VE0N/RSANet)
 **Recursive Self-Attention Modules-Based Network**
 
 **Highlights:**
