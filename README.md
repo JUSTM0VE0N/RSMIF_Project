@@ -1,9 +1,9 @@
 # RSMIF Project - Remote Sensing Multimodal Image Fusion Research Collection
 
-## ? A Flexible and Extensible Project for Remote Sensing Multimodal Image Fusion
+## 📋A Flexible and Extensible Project for Remote Sensing Multimodal Image Fusion
 
 ### ? RAMSF (TGRS 2025)
-**A Novel Generic Framework for Optical Remote Sensing Multimodal Spatial�CSpectral Fusion**
+**A Novel Generic Framework for Optical Remote Sensing Multimodal Spatial¨CSpectral Fusion**
 <br>
 <img src="charts/RAMSF/schematic.png" align=center />
 
