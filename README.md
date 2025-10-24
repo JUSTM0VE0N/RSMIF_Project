@@ -2,7 +2,7 @@
 
 ## 📋 A Flexible and Extensible Project for Remote Sensing Multimodal Image Fusion
 
-### 🆕 RAMSF (TGRS 2025)
+### 🆕 RAMSF (TGRS 2025) [![GitHub Repo stars](https://img.shields.io/github/stars/JUSTM0VE0N/RAMSF?style=social)](https://github.com/JUSTM0VE0N/RAMSF)
 **A Novel Generic Framework for Optical Remote Sensing Multimodal Spatial¨CSpectral Fusion**
 <br>
 <img src="charts/RAMSF/schematic.png" align=center />
