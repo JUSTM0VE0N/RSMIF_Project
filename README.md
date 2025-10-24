@@ -1,8 +1,8 @@
 # RSMIF Project - Remote Sensing Multimodal Image Fusion Research Collection
 
-## 📋A Flexible and Extensible Project for Remote Sensing Multimodal Image Fusion
+## 📋 A Flexible and Extensible Project for Remote Sensing Multimodal Image Fusion
 
-### ? RAMSF (TGRS 2025)
+### 🆕 RAMSF (TGRS 2025)
 **A Novel Generic Framework for Optical Remote Sensing Multimodal Spatial¨CSpectral Fusion**
 <br>
 <img src="charts/RAMSF/schematic.png" align=center />
@@ -14,7 +14,7 @@
 
 **Model Location:** `models/`
 
-### ? CF2N (GSIS 2024)
+### 🌟 CF2N (GSIS 2024)
 **A Novel Cross Fusion Model with Fine-grained Detail Reconstruction**
 <br>
 <img src="charts/CF2N/framework.png" align=center />
@@ -26,7 +26,7 @@
 
 **Code Location:** `models/`
 
-### ? MMAPP (JSTARS 2024)
+### 🏭 MMAPP (JSTARS 2024)
 **Multi-branch and Multi-scale Adaptive Progressive Pyramid Network**
 <br>
 <img src="charts/MMAPP/framework.png" align=center />
@@ -41,7 +41,7 @@
 
 **Code Location:** `models/`
 
-### ? RSANet (JSTARS 2023)
+### ⚡ RSANet (JSTARS 2023)
 **Recursive Self-Attention Modules-Based Network**
 
 **Highlights:**
@@ -51,7 +51,7 @@
 
 **Code Location:** `models/`
 
-## ? Abstract
+## 🎯 Abstract
 
 This collection presents advanced methods for remote sensing image fusion, addressing the critical challenge of integrating heterogeneous remote sensing data to obtain high-resolution multispectral images while preserving both spatial details and spectral fidelity.
 
@@ -62,7 +62,7 @@ This collection presents advanced methods for remote sensing image fusion, addre
 - Improved spatial-spectral alignment for reduced distortion
 - Enhanced generalization across different fusion tasks
 
-## ?? Method Overview
+## 🏗️ Method Overview
 
 ### RAMSF Framework Architecture
 
@@ -90,7 +90,7 @@ This collection presents advanced methods for remote sensing image fusion, addre
 - Simultaneous consideration of spatial and spectral information
 - Focus on mutual information between spectral and spatial dimensions
 
-## ? Quick Start
+## 🚀 Quick Start
 
 ### Environment Setup
 
@@ -135,7 +135,7 @@ $ cd ./
 $ python test.py --option_path option.yml
 ```
 
-# ?Datasets
+# 📡 Datasets
 
 ## Primary Data Sources
 
@@ -161,7 +161,7 @@ $ python test.py --option_path option.yml
 2. Follow the specific dataset preparation instructions in each project's documentation
 3. Ensure proper file structure and data formatting as required by each method
 
-# ?Results and Performance
+# 🔥 Results and Performance
 
 ## Performance Highlights
 
@@ -190,7 +190,7 @@ $ python test.py --option_path option.yml
 | Task Coverage | The collection provides comprehensive coverage of remote sensing fusion tasks |
 | Efficiency Maintenance | Methods maintain high efficiency while achieving state-of-the-art results |
 
-# ?Citation
+# 📋 Citation
 
 Please cite the respective papers when using each method:
 
@@ -239,5 +239,5 @@ doi = {10.1080/10095020.2024.2416899}}
   pages={10067-10083},
   doi={10.1109/JSTARS.2023.3327167}}
 ```
-  # ?Concat
-  **We welcome feedback and questions about these methods. For technical support, implementation issues, or research collaborations, please feel free to contact us.**
+  # 📬 Concat
+  **We welcome feedback and questions about these methods. For technical support, implementation issues, or research collaborations, please feel free to contact me (email: chuang.liu@whu.edu.cn) .**
